@@ -22,8 +22,5 @@ a:hover{color: #3399fe;}
   .footer-bottom{text-align: left;}
   .footer-bottom-copyright-text{max-width: 480px; float: left; padding: 10px 10px 0px 10px; line-height: 60px; height: 60px;}
   .footer-bottom-social-icons{background-color: #000; text-align: right; padding: 0px 10px;}
-
-    /*
-    .footer-bottom-social-icons{background-color: #000; text-align: right; padding: 0px 10px;}*/
     #footer-social-links li{list-style: none; display: inline-block; padding: 15px 10px 0px 10px;}
 }
